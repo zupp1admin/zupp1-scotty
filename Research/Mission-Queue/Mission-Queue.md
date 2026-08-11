@@ -38,7 +38,7 @@ Not a fixed weekly schedule. Topics are pulled from this backlog in priority ord
 | ID | Topic | Priority Order | Status | Document |
 |---|---|---|---|---|
 | MQ-META-01 | Audience segmentation | 1 | Complete — 2026-08-10 | [Google Drive](https://docs.google.com/document/d/1oQYxZff7a7aSx_tcM50L67oZN858dUReIpXZo71gh_Y) |
-| MQ-META-02 | Conversion psychology | 2 | Queued | — |
+| MQ-META-02 | Conversion psychology | 2 | **Complete — 2026-08-11** | [Report](../Meta-Intelligence/MQ-META-02-Conversion-Psychology.pplx.md) |
 | MQ-META-03 | Trust signals | 3 | Queued | — |
 | MQ-META-04 | Landing-page behavior | 4 | Queued | — |
 | MQ-META-05 | Experimental design | 5 | Queued | — |
@@ -75,6 +75,7 @@ All Meta Intelligence missions and campaign briefs must use this three-stage mod
 
 | ID | Mission | Decision improved | Status | Added |
 |---|---|---|---|---|
+| MQ-META-02 | Conversion Psychology Intelligence | Determine how trust becomes action without compromising Zupp1's philosophy; identify how uncertainty reduction, education, recommendations, transparency, and non-manipulative decision support should shape Biblioteca, Loja, product pages, Atendimento, educational guides, and the customer journey | **Completed — Executive Intelligence Report**; [report](../Meta-Intelligence/MQ-META-02-Conversion-Psychology.pplx.md) | 2026-08-11 |
 | MQ-UX-04 | Evaluate proposed top-level navigation: Início / Explorar / Aprender / Loja / Sobre / Atendimento | Determine whether the structure is comprehensible to first-time visitors, follows sound ecommerce information architecture without suppressing Zupp1's educational positioning, and whether “Atendimento” is more intuitive than “Contato” for Brazilian users in an ongoing customer relationship | **Completed — Strategic Assessment** (Validation Deferred); [report](https://docs.google.com/document/d/1BhM_NYJw0pE8N0mnK1NWbjqjp1HuwSPwbWoQKdZ9PnU/edit) | 2026-08-11 |
 
 **MQ-UX-04 reactivation conditions:** Reactivate visitor validation only when Meta campaigns generate significant traffic, customer behavior can be observed directly, and navigation becomes a measurable business variable rather than a design hypothesis.
