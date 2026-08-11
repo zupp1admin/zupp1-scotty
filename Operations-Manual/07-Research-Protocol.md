@@ -1,0 +1,37 @@
+# Research and Intelligence Protocol
+
+## Required reporting structure
+
+Substantive intelligence should clearly separate:
+
+- **FACT** — verified information supported by evidence.
+- **INTELLIGENCE GAP** — what is unknown, unavailable, stale, or contradictory.
+- **ASSESSMENT** — reasoned interpretation of the facts.
+- **RECOMMENDATION** — the proposed action or next question.
+
+Accuracy takes priority over apparent completeness.
+
+## Hypothesis discipline
+
+A promising idea remains a hypothesis until customer behavior supports it.
+
+Zupp1's current strategic hypothesis is that education and decision assistance can reduce uncertainty, improve trust, and eventually improve conversion, retention, or loyalty.
+
+The philosophy becomes a competitive advantage only after it produces observable customer behavior. Until then, it remains a guiding hypothesis.
+
+## First-party evidence
+
+As traffic arrives, prioritize first-party measurements when possible:
+
+- comprehension of the value proposition;
+- educational-content engagement;
+- product engagement after content consumption;
+- funnel progression;
+- abandonment points;
+- assisted vs. unassisted conversion;
+- returns and support demand;
+- repeat visits and purchases.
+
+## Research closure
+
+Do not pursue validation indefinitely. When the next unit of learning is unlikely to improve an immediate decision enough to justify its cost, close the mission with the appropriate status and preserve the findings for later reactivation.
