@@ -49,7 +49,7 @@ The most important rationalizations completed were:
 | Joinchat | 6.3.2 | Active | C | Creame / WhatsApp | Customer-contact capability. Configuration screen is available; public visibility and approved home-only delay need a focused verification. |
 | LiteSpeed Cache | 7.9 | Active | A | LiteSpeed Technologies / performance | Correct server-native caching layer for LiteSpeed. Canonical page/cache optimization system; avoid adding competing cache plugins. |
 | Meta for WooCommerce | 3.7.6 | Active | B | Meta / campaign attribution | Pixel `2100702700874180` and ViewContent evidence verified. Plugin reports untested compatibility with WooCommerce 11.0.1; purchase/CAPI deduplication remains unproven. |
-| Pagar.me for WooCommerce | 3.9.0 | Active | A | Pagar.me / payment | Primary payment gateway. Version 3.10.1 intentionally held because WordPress 7.0.3 compatibility is untested. Requires controlled payment test. |
+| Pagar.me for WooCommerce | 3.9.0 | Active | A | Pagar.me / payment | Canonical card gateway. Captain John confirms a prior controlled card-payment test succeeded. Version 3.10.1 remains intentionally held because its WordPress 7.0.3 compatibility is unverified. |
 | Stripe Gateway for WooCommerce | 10.8.5 | Active | C | Stripe / payment | Potential alternative/fallback gateway. Enabled-state and production necessity require Captain confirmation; do not remove until payment strategy is explicit. |
 | Uncanny Automator | 7.5.0.3 | Active | E | Uncanny Owl / automation | Five recipes verified, all drafts. Bit Social and custom systems supply live automation. Normal deactivation did not persist; manual intervention required. |
 | UpdraftPlus | 1.26.6 | Active | A | TeamUpdraft / recovery | Canonical backup system. Database/files every 12 hours, 14-set retention, Google Drive destination and successful complete transfer verified. |
@@ -107,7 +107,7 @@ WooCommerce, UpdraftPlus, Bit Social/Pro, Content Views, Optimole, Image Waterma
 - **MonsterInsights:** traffic collection works; ecommerce event contract/reporting remains incomplete.
 - **Meta for WooCommerce:** Pixel and ViewContent verified; purchase/CAPI deduplication and WooCommerce 11.0.1 compatibility remain unproven.
 - **Wordfence:** scanning works; WAF optimization and 2FA are incomplete.
-- **Pagar.me/Stripe:** payment roles and controlled transaction verification remain incomplete.
+- **Pagar.me/Stripe:** Pagar.me is confirmed as the canonical card provider and its current payment flow has been tested successfully by Captain John. Stripe's fallback role remains to be clarified.
 - **WPConsent:** custom affiliate tracker consent classification remains unresolved.
 - **IndexNow:** no recent submission evidence.
 - **WP RSS Aggregator:** imported items exist; source/display/editorial governance is unclear.
@@ -157,7 +157,7 @@ All deactivations are reversible. No data was deleted.
 - Approve consolidation strategy for Affiliate Product Builder versus Amazon Importer.
 - Review active Code Snippets, especially the active `TEMP — Reset Meta catalog products` snippet, outside the plugin-only authorization boundary.
 - Confirm whether WP Headers and Footers should remain solely for Bing verification.
-- Resolve the Pagar.me update only after compatibility and payment testing.
+- Keep the working Pagar.me version in place; resolve the available update only after vendor compatibility evidence and a defined post-update regression test.
 
 ## 9. Performance Impact Assessment
 
@@ -201,7 +201,7 @@ Do not install another optimization, security, analytics, redirect, backup, SMTP
 
 ## 13. Intelligence Gaps
 
-- Controlled checkout and payment evidence for Pagar.me and Stripe.
+- Independent technical evidence for the prior Pagar.me test and clarification of Stripe's fallback role.
 - GA4 ecommerce and Meta purchase/CAPI deduplication.
 - Exact frontend performance contribution by plugin.
 - Hidden dependency preventing Uncanny Automator deactivation.
@@ -225,4 +225,4 @@ After rationalization, the following remained operational:
 - UpdraftPlus backup interface and stored backups.
 - `/cookie-policy/` public redirect to `/politica-de-cookies/` after the single-purpose redirect plugin was deactivated.
 
-**Final status:** PARTIALLY VERIFIED. Inventory, classification, deactivations and immediate regression checks are verified. Payment, analytics attribution, hidden dependencies and long-term observation remain open.
+**Final status:** PARTIALLY VERIFIED. Inventory, classification, deactivations and immediate regression checks are verified. Pagar.me's current card flow is operationally verified by Captain evidence; analytics attribution, Stripe's role, hidden dependencies and long-term observation remain open.
