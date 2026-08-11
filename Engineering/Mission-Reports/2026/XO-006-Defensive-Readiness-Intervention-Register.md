@@ -18,6 +18,7 @@
 - Zupp1 Direct Shopee Link Auditor and Zupp1 Post Format Repair were deactivated, not deleted.
 - Homepage, Loja, cart, contact forms and Mission Control remained operational.
 - Meta Pixel 2100702700874180 and Shopee affiliate ID an_18376601073 remained present.
+- Captain John confirms that Pagar.me is the canonical WooCommerce card provider and that a prior controlled card-payment test completed successfully. Current payment functionality is therefore operationally verified by command evidence; this does not by itself authorize or validate an update to a newer plugin version.
 
 ## Deferred interventions
 
@@ -27,7 +28,7 @@
 | Administrator account validation | Ownership and continued need require Captain confirmation | Confirm both administrator accounts; reduce privileges or remove only after verification | High |
 | Wordfence WAF optimization | Requires server-level configuration and regression gate | Optimize WAF, verify LiteSpeed compatibility and retest checkout/admin access | High |
 | WordPress file editors | Requires `wp-config.php` access | Add `DISALLOW_FILE_EDIT` and verify administration | High |
-| Pagar.me 3.10.1 update | Compatibility with WordPress 7.0.3 is reported as untested | Confirm vendor compatibility and test payment flow before updating | High |
+| Pagar.me 3.10.1 update | Current Pagar.me card processing has been tested successfully by Captain John, but compatibility of the newer plugin release with WordPress 7.0.3 remains reported as untested | Keep the working version in place; update only after vendor compatibility evidence and a post-update regression plan | Medium |
 | Restore drill | A backup existing does not prove restoration | Restore into staging and record measured RTO and successful data checks | High |
 | Inactive plugin removal | Deletion is destructive and requires final dependency confirmation | Review four inactive plugins and delete only confirmed obsolete copies | Medium |
 | Default recovery theme | Requires installing additional software | Install one maintained WordPress default theme strictly for recovery | Medium |
