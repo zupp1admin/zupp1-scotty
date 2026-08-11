@@ -5,6 +5,10 @@ This repository is the canonical institutional archive for Zupp1 philosophy, ope
 **Status:** Founding Edition  
 **Canonical archive:** Yes
 
+## Start here
+
+- [`START-HERE.md`](START-HERE.md): orientation, repository map, operating routes, evidence labels, and the standard documentation template.
+
 ## Index
 
 ### Operations Manual
