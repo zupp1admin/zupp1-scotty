@@ -35,3 +35,5 @@ As traffic arrives, prioritize first-party measurements when possible:
 ## Research closure
 
 Do not pursue validation indefinitely. When the next unit of learning is unlikely to improve an immediate decision enough to justify its cost, close the mission with the appropriate status and preserve the findings for later reactivation.
+
+Use the canonical [Mission Report Template](../Research/Mission-Report-Template.md) for mission deliverables. Retain only sections that improve the decision.

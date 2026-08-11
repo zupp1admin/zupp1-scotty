@@ -56,8 +56,9 @@ The operating sequence is:
 1. Read the [Research Protocol](Operations-Manual/07-Research-Protocol.md).
 2. Confirm that the work has a decision to improve.
 3. Check the [Mission Queue](Research/Mission-Queue/Mission-Queue.md) before beginning.
-4. Separate evidence, reasoning, proposals, and unknowns using the required labels below.
-5. Archive completed work and update mission status.
+4. Use the [Mission Report Template](Research/Mission-Report-Template.md) for the deliverable.
+5. Separate evidence, reasoning, proposals, and unknowns using the required labels below.
+6. Archive completed work and update mission status.
 
 ### Engineering
 
