@@ -3,6 +3,8 @@
 **Status:** Permanent operating norm  
 **Effective:** 2026-08-11
 
+This protocol implements **Standing Order SO-004 — Knowledge Preservation and Information Lifecycle Policy**. If the two documents conflict, SO-004 governs.
+
 ## Purpose
 
 Zupp1 documentation is an institutional asset. Completed reports, research notes, strategic assessments, operating standards, decision frameworks, mission records, and other durable work products must remain retrievable after the immediate conversation or task ends.

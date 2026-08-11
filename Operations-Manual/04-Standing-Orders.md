@@ -48,3 +48,13 @@ Where appropriate, changes should be preserved through Git history rather than s
 > Significant events are to be recorded automatically. No case-by-case approval is required.
 
 — Captain John Peterson
+
+## Standing Order SO-004
+
+**Knowledge Preservation and Information Lifecycle Policy** is active as of 2026-08-11.
+
+It establishes The Book as Zupp1's curated institutional memory, defines the knowledge lifecycle, delegates archival responsibility, protects historical context, and introduces the stewardship requirement that every mission leave USS Zupp1 more understandable than before.
+
+Full policy:
+
+- `Operations-Manual/11-SO-004-Knowledge-Preservation-and-Information-Lifecycle.md`

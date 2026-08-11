@@ -19,6 +19,7 @@ This repository is the canonical institutional archive for Zupp1 philosophy, ope
 - `Operations-Manual/08-Communications-Protocol.md`
 - `Operations-Manual/09-Customer-Service-Doctrine.md`
 - `Operations-Manual/10-Documentation-Retention-Protocol.md`
+- `Operations-Manual/11-SO-004-Knowledge-Preservation-and-Information-Lifecycle.md`
 
 ### Engineering
 
