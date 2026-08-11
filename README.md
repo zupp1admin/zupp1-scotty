@@ -30,6 +30,7 @@ This repository is the canonical institutional archive for Zupp1 philosophy, ope
 - `Engineering/Hero-Video-Standard.md`
 - `Engineering/Card-Alignment-Standard.md`
 - `Engineering/WordPress-Editing-Standards.md`
+- `Engineering/Mission-Reports/README.md`
 
 ### Customer Experience
 
