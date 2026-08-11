@@ -18,6 +18,7 @@ This repository is the canonical institutional archive for Zupp1 philosophy, ope
 - `Operations-Manual/07-Research-Protocol.md`
 - `Operations-Manual/08-Communications-Protocol.md`
 - `Operations-Manual/09-Customer-Service-Doctrine.md`
+- `Operations-Manual/10-Documentation-Retention-Protocol.md`
 
 ### Engineering
 
@@ -32,10 +33,19 @@ This repository is the canonical institutional archive for Zupp1 philosophy, ope
 ### Research
 
 - `Research/MQ-UX-04-Archive-Summary.md`
+- `Research/MQ-UX-04-Full-Strategic-Assessment.md`
+- `Research/Intelligence/INT-001/INT-001-The-State-of-Home-Decision-Making-in-Brazil.md`
+- `Research/Intelligence/INT-001/Source-Notes/Consumer-Behavior.md`
+- `Research/Intelligence/INT-001/Source-Notes/Marketplaces.md`
+- `Research/Intelligence/INT-001/Source-Notes/Gaps-and-Regulation.md`
+- `Research/Meta-Intelligence/MQ-META-01-Audience-Segmentation.md`
+- `Research/Strategy/Zupp1-Hypothesis-Measurement-Framework.md`
+- `Research/Mission-Queue/Mission-Queue.md`
 
 ### Bridge Logs
 
 - `Bridge-Logs/Ro/README.md`
+- `Bridge-Logs/Ro/2026/2026-08-11-documentation-retention.md`
 - `Bridge-Logs/Scotty/README.md`
 - `Bridge-Logs/Spock/README.md`
 
