@@ -24,6 +24,7 @@ Every durable Zupp1 document created by an officer or automated system must foll
 - **Research:** Intelligence reports, strategic assessments, research notes, measurement frameworks, mission queues, and research archives.
 - **Operations-Manual:** Permanent operating rules, protocols, roles, and decision doctrine.
 - **Engineering:** Technical implementation standards and engineering documentation.
+- **Engineering mission reports:** XO audits, intervention registers, runtime reviews, verification evidence, rollback context, and cross-platform engineering mission closures belong in `Engineering/Mission-Reports/YYYY/` and must be linked from its index.
 - **Customer-Experience:** Customer-service architecture, policies, and support doctrine.
 - **Bridge-Logs:** Durable operational records from Ro, Spock, and Scotty.
 - **Captain-Logs:** Major decisions, milestones, and founding history.
@@ -60,5 +61,7 @@ When source material is sensitive, archive a sanitized summary and document the 
 ## Responsibility
 
 This protocol applies by default and does not require repeated authorization. The officer creating or materially revising a document is responsible for completing the GitHub archive and Slack ledger steps before reporting the work as finished.
+
+Commander One maintains the engineering-document route and its mission-report index. New durable engineering reports must be archived as part of mission closure unless blocked by unavailable access or unresolved confidentiality review.
 
 If an archival system is unavailable, preserve the document locally, label the retention step as pending, report the blockage, and complete the archive when access returns.
