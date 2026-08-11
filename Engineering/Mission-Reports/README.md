@@ -14,6 +14,7 @@ A mission report belongs here when it explains what was inspected or changed, wh
 ## 2026
 
 - [XO-004 — Biblioteca Editorial Audit](2026/XO-004-Biblioteca-Editorial-Audit.md)
+- [XO-005 — Controlled Checkout Verification](2026/XO-005-Controlled-Checkout-Verification.md)
 - [XO-006 — Defensive Readiness Intervention Register](2026/XO-006-Defensive-Readiness-Intervention-Register.md)
 - [XO-007 — WordPress Plugin Audit](2026/XO-007-WordPress-Plugin-Audit.md)
 - [XO-008 — Code Snippets Governance](2026/XO-008-Code-Snippets-Governance.md)
