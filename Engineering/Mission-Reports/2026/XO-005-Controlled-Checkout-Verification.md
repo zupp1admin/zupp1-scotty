@@ -65,6 +65,21 @@ Verify a controlled WooCommerce journey without creating a financial charge and 
 
 No billing address, personal email address, phone number, CPF, IP address, authentication data or order key is preserved in this report.
 
+## Reactivation trigger
+
+**DEFERRED PRE-LAUNCH GATE:** Reactivate this repair round immediately before the first Meta or Google Ads campaign launches.
+
+The gate must not be cleared until:
+
+- Mission Control distinguishes completed zero-value orders from paid orders;
+- an anonymous, logged-out consented journey reaches checkout and order confirmation;
+- GA4 page, funnel and purchase events are reconciled;
+- Meta Pixel and CAPI Purchase are reconciled without duplication;
+- campaign UTMs survive from landing page through the recorded order;
+- WooCommerce remains the authoritative commerce ledger;
+- affiliate identifiers and the public UX remain unchanged;
+- all material discrepancies are either repaired or explicitly accepted with reasons.
+
 ## Final status
 
 **PARTIALLY VERIFIED:** WooCommerce zero-value commerce flow and local ingestion are verified. Anonymous GA4 acquisition, Meta Purchase/CAPI and cross-system attribution remain not yet proven.
