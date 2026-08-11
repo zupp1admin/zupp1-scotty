@@ -88,6 +88,8 @@ All Meta Intelligence missions and campaign briefs must use this three-stage mod
 
 ## Mission Ticket Template (for future entries)
 
+Use this ticket to authorize and track a mission. Once activated, create the deliverable from the canonical [Mission Report Template](../Mission-Report-Template.md). The ticket records what the bridge commissioned; the report records evidence, assessment, recommendations, Intelligence Gaps, confidence, stopping rules, and mission closure.
+
 ```
 ID:
 Title:
@@ -100,7 +102,16 @@ Requested by:
 Date added:
 Status: Queued / Active / Complete / Deferred
 Outcome (filled on completion):
+Mission report (filled on activation):
 ```
+
+### Mission reporting standard
+
+- Start every substantive mission deliverable from the [Mission Report Template](../Mission-Report-Template.md).
+- Retain only sections that improve the decision; do not preserve empty headings.
+- Separate **FACT**, **ASSESSMENT**, **RECOMMENDATION**, and **INTELLIGENCE GAP**.
+- Define validation, stopping, and reactivation rules when applicable.
+- On completion, add the report link to the relevant queue entry and complete the preservation checklist.
 
 ---
 *This document is the living record of what Zupp1 Intelligence is investigating and why. Update it whenever a mission is queued, activated, or completed — do not let missions run without a ticket here.*
