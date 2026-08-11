@@ -113,5 +113,18 @@ Mission report (filled on activation):
 - Define validation, stopping, and reactivation rules when applicable.
 - On completion, add the report link to the relevant queue entry and complete the preservation checklist.
 
+### Post-report archival routine
+
+After every report is created:
+
+1. Classify the report by function and durable purpose.
+2. Store it in the appropriate directory of the canonical Zupp1 GitHub repository. Do not leave the only durable copy in Slack, a temporary workspace, or an individual tool.
+3. Commit and push the report with a descriptive commit message.
+4. Add or update the report link in the relevant Mission Queue entry.
+5. Log the preservation action in Slack with the report title, GitHub link, mission status, and any remaining Intelligence Gaps.
+6. Verify that the GitHub file is accessible before declaring the archival routine complete.
+
+This routine applies to all completed reports, including research, strategy, engineering, operations, customer experience, marketing, and validation work.
+
 ---
 *This document is the living record of what Zupp1 Intelligence is investigating and why. Update it whenever a mission is queued, activated, or completed — do not let missions run without a ticket here.*

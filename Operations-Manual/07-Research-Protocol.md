@@ -37,3 +37,9 @@ As traffic arrives, prioritize first-party measurements when possible:
 Do not pursue validation indefinitely. When the next unit of learning is unlikely to improve an immediate decision enough to justify its cost, close the mission with the appropriate status and preserve the findings for later reactivation.
 
 Use the canonical [Mission Report Template](../Research/Mission-Report-Template.md) for mission deliverables. Retain only sections that improve the decision.
+
+## Post-report archival routine
+
+Every completed report must be classified and stored in the appropriate directory of the canonical Zupp1 GitHub repository. The responsible officer must then update the relevant Mission Queue entry, record the preservation action in Slack, and verify the GitHub file before treating the report as archived.
+
+Slack may announce and discuss the report, but it is not the permanent repository. A report is not fully complete until its durable GitHub copy is verified.

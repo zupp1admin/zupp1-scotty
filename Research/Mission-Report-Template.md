@@ -203,7 +203,8 @@ Before declaring the mission complete:
 - [ ] Durable conclusions are preserved in the appropriate Book section.
 - [ ] Historical material is marked Superseded, Deprecated, or Historical Context rather than erased.
 - [ ] The Mission Queue is updated.
-- [ ] The report is committed to GitHub.
-- [ ] The completion or status change is logged in Slack.
+- [ ] The report is classified and stored in the appropriate GitHub repository directory.
+- [ ] The report is committed, pushed, and its GitHub file is accessible.
+- [ ] The completion, status change, and GitHub report link are logged in Slack.
 
 **Stewardship test:** USS Zupp1 should be more understandable at the end of this mission than it was at the beginning.
