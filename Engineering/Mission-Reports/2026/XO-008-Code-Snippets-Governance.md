@@ -58,7 +58,7 @@ The correct next step is **controlled migration, not broad deactivation**.
 | 42 | Zupp1 — Substituir vídeo principal | Output-buffer replacement of homepage video URL | Hero compatibility patch | Keep until the canonical page source is corrected |
 | 46 | remover comentarios no woocommerce | Removes WooCommerce review tab | Product UX | Keep pending product-template policy review |
 | 48 | Zupp1 — Produto em destaque dentro do texto (uso manual). | Manual product shortcodes inside articles | Editorial commerce | Keep; move CSS to Astra standard later |
-| 49 | Fix WooCommerce Pagar.me Thank You Redirect | Forces canonical order-received return URL | Checkout compatibility | Keep until controlled payment verification proves replacement unnecessary |
+| 49 | Fix WooCommerce Pagar.me Thank You Redirect | Forces canonical order-received return URL | Checkout compatibility | Keep; Captain John confirms the current Pagar.me payment flow works, but the redirect snippet should remain until its specific necessity is isolated in staging |
 | 50 | Zupp1 - Botão flutuante Telegram | Public Telegram support control | Support UX | Keep |
 | 53 | Zupp1 Biblioteca Publication Gate — Runtime | Forces Draft Engine output to draft and records publication governance | Editorial safety | Keep; priority candidate for governed plugin module |
 
@@ -117,7 +117,7 @@ No visible snippet should be replaced or deactivated until all of the following 
 - search, category, price and marketplace filters are exercised;
 - direct-sale and Amazon/Shopee product paths are checked;
 - affiliate identifiers and Meta Pixel ownership are verified unchanged;
-- Pagar.me return behavior has a controlled test;
+- the Pagar.me return path remains unchanged and is compared against Captain John's previously successful controlled payment evidence;
 - rollback is one action and documented;
 - cache is cleared and anonymous rendering is compared;
 - the old snippet is deactivated only after equivalence is proven.
